@@ -14,10 +14,11 @@ Use is limited to:
 
 ## 📁 Contents
 
-- `login-pages/` — Realistic phishing login page clones
-- `email-templates/` — Spear-phishing email examples
-- `social-engineering/` — Pretexts, call scripts, and conversation bait
-- `assets/` — Logos, icons, images (for simulations only)
+- `Cool Login From/` — Stylish custom-designed login form with CSS and background image  
+- `Facebook Login/` — Facebook-style login clone for phishing simulation exercises  
+- `Gmail login/` — Gmail-branded phishing login template with visual elements  
+- `Simple login/` — Clean and minimal login form for quick deployment  
+- `README.md` — Documentation including usage and ethical guidelines  
 
 ## 🚀 Getting Started
 
